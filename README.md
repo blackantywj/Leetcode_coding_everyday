@@ -6,4 +6,6 @@ I will solve a problem on leetcode everyday!
 
 Two sum
 
+add two number
+
 #2021/03/29
