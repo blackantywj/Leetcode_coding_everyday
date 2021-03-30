@@ -12,8 +12,6 @@ add two number
 
 longest_substring
 
-median_two_list(https://www.bilibili.com/video/BV18f4y1i7HR?from=search&seid=17102632734341628384)
-
 #2021/03/30
 
 longest_palindromic_substring
