@@ -12,6 +12,8 @@ add two number
 
 longest_substring
 
+median_two_list
+
 #2021/03/30
 
 longest_palindromic_substring
