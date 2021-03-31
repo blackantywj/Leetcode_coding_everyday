@@ -28,6 +28,7 @@ class Solution(object):
 
         for x in s:
             L[index] += x
+            # 这种修改方式可以实现 0 1 2 3 ... * ... 3 2 1 0类似的递进模式！
             if index == 0:
                 step = 1
             elif index == numRows -1:
@@ -35,3 +36,9 @@ class Solution(object):
             index += step
 
         return ''.join(L)
+
+teststring = 'PAYPALISHIRING'
+
+cc = Solution()
+
+cc.convert(teststring, 3)
