@@ -19,3 +19,13 @@ median_two_list
 longest_palindromic_substring
 
 reverse_a_int
+
+#2021/03/31
+
+Zigzag_conversion
+
+Palindrome_number
+
+#2021/04/01
+
+myAtoi
