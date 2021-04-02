@@ -31,3 +31,9 @@ Palindrome_number
 myAtoi
 
 Roman_to_int
+
+#2021/04/02
+
+regular_expression_matching
+
+horizontal_scanning
