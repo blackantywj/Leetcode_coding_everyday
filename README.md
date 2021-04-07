@@ -59,3 +59,10 @@ valid_parentheses
 three_sum_closest
 
 merge_two_sorted_lists
+
+#2021/04/07
+
+Remove_Duplicates_from_sorted_array
+
+	
+Letter_Combinations_of_aPhone_Number   
