@@ -71,3 +71,5 @@ Letter_Combinations_of_aPhone_Number
 
 4sum(A very good problem!)
 
+remove_element
+
