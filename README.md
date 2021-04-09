@@ -73,3 +73,11 @@ Letter_Combinations_of_aPhone_Number
 
 remove_element
 
+#2021/04/09
+
+implement_strstr
+
+remove_nth_node_from_end_of_list
+
+
+
