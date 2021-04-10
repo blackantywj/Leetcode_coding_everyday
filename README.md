@@ -79,5 +79,10 @@ implement_strstr
 
 remove_nth_node_from_end_of_list
 
+#2021/04/10
+
+generate_parentheses(very good problem, recursion)
+
+search_insert_position
 
 
