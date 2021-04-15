@@ -109,5 +109,11 @@ binary-tree-zigzag-level-order-traversal
 
 maximum-depth-of-binary-tree
 
+#2021/04/15
+
+construct-binary-tree-from-preorder-and-inorder-traversal (No.2 answer is very easy to understand)
+
+
+
 
 
