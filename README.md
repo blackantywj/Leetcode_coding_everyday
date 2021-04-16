@@ -113,6 +113,16 @@ maximum-depth-of-binary-tree
 
 construct-binary-tree-from-preorder-and-inorder-traversal (No.2 answer is very easy to understand)
 
+convert_sorted_array_to_binary_search_tree
+
+# 2021/04/16
+
+population_next_right_pointers_in_each_node
+
+pascals_triangle
+
+
+
 
 
 
