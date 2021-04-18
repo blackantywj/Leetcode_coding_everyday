@@ -122,13 +122,24 @@ population_next_right_pointers_in_each_node
 pascals_triangle
 
 # 2021/04/17
+<<<<<<< HEAD
 
 best_time_to_buy_and_sell_stock
 
 binary_tree_maximum_path_num
 
+=======
+>>>>>>> e093938cd9a0c0c30ccc0358fee58c10ee07ed00
 
+best_time_to_buy_and_sell_stock
 
+binary_tree_maximum_path_num
+
+# 2021/04/18
+
+best_time_to_buy_and_sell-stock
+
+valid_palindrome
 
 
 
