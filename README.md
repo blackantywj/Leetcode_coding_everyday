@@ -143,6 +143,14 @@ valid_palindrome
 
 word_ladder(No.127 BFS question should pay attention)
 
+# 2021/04/19
+
+longest_consecutive_sequence
+
+single_number
+
+
+
 
 
 
