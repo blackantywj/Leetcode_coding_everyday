@@ -171,7 +171,11 @@ search_in_rotated_sorted_array
 
 # 2021/04/23
 
+search_in_rotated_sorted_array
 
+find_first_and_last_position_of_element_in_sorted_array
+
+valid_soduku
 
 
 
