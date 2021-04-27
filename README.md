@@ -187,12 +187,15 @@ unique_binary_search_trees_ii
 
 permutations
 
-# 2021/04/27
+# 2021/04/26
 
 rotate_image
 
+# 2021/04/27
+
 permutations
 
+first_missing_smaller_number
 
 
 
