@@ -197,6 +197,14 @@ permutations
 
 first_missing_smaller_number
 
+# 2021/04/28
+
+trapping_rain_water
+
+powx-n
+
+
+
 
 
 
