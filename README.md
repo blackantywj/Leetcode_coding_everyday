@@ -203,6 +203,12 @@ trapping_rain_water
 
 powx-n
 
+# 2021/04/29
+
+wildcard_matching
+
+sqrtx
+
 
 
 
