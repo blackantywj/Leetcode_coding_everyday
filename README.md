@@ -301,3 +301,7 @@ binary_tree_balanced
 # 2021/5/22
 
 sort_list
+
+# 2021/5/23
+
+minimum_depth_of_bt
