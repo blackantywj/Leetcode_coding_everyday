@@ -317,3 +317,9 @@ populating_next_right_pointer_in_each_node_ii
 # 2021/5/27
 
 sum_root_to_leaf_numbers
+
+# 2021/5/28
+
+bnary_tree_preorder_traversal
+
+binary_tree_postorder_traversal
