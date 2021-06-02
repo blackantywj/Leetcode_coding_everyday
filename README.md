@@ -339,3 +339,7 @@ binary_tree_right_side_view
 # 2021/6/1
 
 evaluate_reverse_polish_notations
+
+# 2021/6/2
+
+invert_tree
