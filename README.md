@@ -356,3 +356,7 @@ k_th_smallest_element_in_a_bst
 
 lowest-common-ancestor-of-a-binary-search-tree
 
+# 2021/6/6
+
+lowest_common_ancestor_of_a_binary_tree
+
