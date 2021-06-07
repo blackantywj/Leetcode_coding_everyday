@@ -360,3 +360,7 @@ lowest-common-ancestor-of-a-binary-search-tree
 
 lowest_common_ancestor_of_a_binary_tree
 
+# 2021/6/7
+
+min_max
+
