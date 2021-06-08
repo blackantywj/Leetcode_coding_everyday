@@ -364,3 +364,7 @@ lowest_common_ancestor_of_a_binary_tree
 
 min_max
 
+# 2021/6/8
+
+intersection_of_two_linked_lists
+
