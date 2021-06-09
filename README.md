@@ -368,3 +368,6 @@ min_max
 
 intersection_of_two_linked_lists
 
+# 2021/6/9
+
+binary_tree_path
