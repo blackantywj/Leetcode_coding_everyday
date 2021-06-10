@@ -371,3 +371,9 @@ intersection_of_two_linked_lists
 # 2021/6/9
 
 binary_tree_path
+
+# 2021/6/10
+
+max_element_index
+
+remove_duplicates_from_sorted_array_ii
