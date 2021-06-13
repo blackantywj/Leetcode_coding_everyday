@@ -381,3 +381,8 @@ remove_duplicates_from_sorted_array_ii
 # 2021/6/11
 
 fraction_to_recurring_decimals
+
+# 2021/6/13
+
+majority_element
+
