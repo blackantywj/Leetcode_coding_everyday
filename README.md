@@ -381,3 +381,10 @@ max_element_index
 # 2021/6/11
 
 fraction_to_recurring_decimal
+
+
+# 2021/6/13
+
+majority_element
+
+excel_sheet_column_number
