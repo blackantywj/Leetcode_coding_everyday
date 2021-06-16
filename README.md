@@ -386,3 +386,16 @@ fraction_to_recurring_decimals
 
 majority_element
 
+# 2021/6/14
+
+binary_tree_paths
+
+# 2021/6/15
+
+factorial-trailing-zeroes
+
+# 2021/6/16
+
+House_Robber_III
+
+largest_number
