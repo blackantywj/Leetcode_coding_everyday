@@ -14,4 +14,8 @@ class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         nums.sort()
         return nums[len(nums)//2]
+<<<<<<< HEAD
             
+=======
+            
+>>>>>>> f8e7c831407587f60a104ad002a5eca3aef9ec7d
