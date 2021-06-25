@@ -1,6 +1,6 @@
 # Leetcode_coding_everyday
 
-I will solve a problem on leetcode everyday!
+I will solve a problem on leetcode everyday!!!!
 
 # 2021/03/28
 
@@ -374,6 +374,7 @@ binary_tree_path
 
 # 2021/6/10
 
+<<<<<<< HEAD
 max_element_index
 
 remove_duplicates_from_sorted_array_ii
@@ -381,11 +382,22 @@ remove_duplicates_from_sorted_array_ii
 # 2021/6/11
 
 fraction_to_recurring_decimals
+=======
+remove_duplicates_from_sorted_array_ii
+
+max_element_index
+
+# 2021/6/11
+
+fraction_to_recurring_decimal
+
+>>>>>>> 192284b0e5bae3db598e96e0a4267b85cab9ace8
 
 # 2021/6/13
 
 majority_element
 
+<<<<<<< HEAD
 # 2021/6/14
 
 binary_tree_paths
@@ -399,3 +411,20 @@ factorial-trailing-zeroes
 House_Robber_III
 
 largest_number
+=======
+excel_sheet_column_number
+
+# 2021/6/14
+
+factorial_trailing_zeroes
+
+# 2021/6/15
+
+# 2021/6/16
+
+rotate_array
+>>>>>>> 192284b0e5bae3db598e96e0a4267b85cab9ace8
+
+# 2021/6/25
+
+number_of_1_bits

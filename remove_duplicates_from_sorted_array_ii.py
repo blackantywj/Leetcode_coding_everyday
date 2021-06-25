@@ -53,4 +53,8 @@ class Solution:
 if __name__ is "__main__":
 	solo = Solution()
 
+<<<<<<< HEAD
 	solo.removeDuplicates([0,0,1,1,1,1,2,3,3])
+=======
+	solo.removeDuplicates([0,0,1,1,1,1,2,3,3])
+>>>>>>> 192284b0e5bae3db598e96e0a4267b85cab9ace8

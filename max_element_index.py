@@ -9,4 +9,8 @@ class Solution:
                 maxvalue = element
                 maxindex = i
                 
+<<<<<<< HEAD
         return maxindex
+=======
+        return maxindex
+>>>>>>> 192284b0e5bae3db598e96e0a4267b85cab9ace8

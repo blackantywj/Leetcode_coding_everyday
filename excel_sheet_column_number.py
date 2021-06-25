@@ -6,4 +6,8 @@ class Solution:
         for u in x:
             s+=z[u]*((26)**(l-1))
             l=l-1
+<<<<<<< HEAD
         return s
+=======
+        return s
+>>>>>>> 192284b0e5bae3db598e96e0a4267b85cab9ace8
