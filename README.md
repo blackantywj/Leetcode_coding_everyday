@@ -436,3 +436,7 @@ house_robbers
 # 2021/6/27
 
 basic_calculator_ii
+
+# 2021/6/28
+
+next_permutation
